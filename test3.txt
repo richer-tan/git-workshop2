@@ -1,1 +1,2 @@
 added on main
+testing core.editor
